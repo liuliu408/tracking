@@ -1,8 +1,6 @@
-联系方式：15928681548  
-e_mail：liuliu408@163.com  
+联系方式：15928681548  e_mail：liuliu408@163.com  （图像信息研究所614）  
 
-
-## [CVPR2018视觉跟踪(RASNet)](https://zhuanlan.zhihu.com/p/34222060)
+## 2018 CVPR(14篇 tracking)
 #### 1.  VITAL：VIsual Tracking via Adversarial Learning.   
 #### 2.  LSART：Learning Spatial-Aware Regressions for Visual Tracking.   
 #### 3.  SiamRPN：High Performance Visual Tracking with Siamese Region Proposal Network.  
@@ -18,3 +16,5 @@ e_mail：liuliu408@163.com
 #### 13. MKCF：High-speed Tracking with Multi-kernel Correlation Filters.   
 #### 14. HP：Hyperparameter Optimization for Tracking with Continuous Deep Q-Learning.  
 
+
+## [CVPR2018视觉跟踪(RASNet)](https://zhuanlan.zhihu.com/p/34222060)
