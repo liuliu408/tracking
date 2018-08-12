@@ -11,6 +11,7 @@
 * 之后，用深度学习的特征代替普通特征提出了相关滤波算法，精度有一定的提高。  
 * 再之后，深度学习的方法崛起，各种有关深度学习的目标跟踪算法也如雨后春笋，拔地而起。  
 ---
+### 2010年开始发表在顶会顶刊上的使用correlation filter进行目标跟踪的论文 
 1. Visual object tracking using adaptive orrelation filters. In CVPR, 2010. 
 1. Exploiting the circulant structure of tracking-by-detection with kernels. In ECCV, 2012.
 1. Accurate scale estimation for robust visual tracking. In BMVC,2014.
@@ -32,6 +33,5 @@
 1. Real-Time Visual Tracking: Promoting the Robustness of Correlation Filter Learning.In ECCV 2016.
 1. Target Response Adaptation for Correlation Filter Tracking. ECCV2016
 1. Beyond Correlation Filters: Learning Continuous Convolution Operators for Visual Tracking. ECCV2016
- 
-
+---
  * [相关滤波器（Correlation Filters）](https://blog.csdn.net/sgfmby1994/article/details/68490903)
