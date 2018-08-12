@@ -7,3 +7,7 @@ e_mail：liuliu408@163.com
  ## 4. [foolwood/benchmark_results](https://github.com/foolwood/benchmark_results)
  
  
+ 
+ #### . discriminative correlation filters (DCFs): ECO, C-COT and HCFT
+ 
+ 
