@@ -1,4 +1,4 @@
-· liuq（15928681548，58570305，liuliu408@163.com，图像信息研究所614）  
+### liuq（15928681548，58570305，liuliu408@163.com，图像信息研究所614）  
 
 ###   ECCV-2018
 * UPDT: Unveiling the Power of Deep Tracking.  
