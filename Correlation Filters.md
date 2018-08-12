@@ -11,4 +11,27 @@
 * 之后，用深度学习的特征代替普通特征提出了相关滤波算法，精度有一定的提高。  
 * 再之后，深度学习的方法崛起，各种有关深度学习的目标跟踪算法也如雨后春笋，拔地而起。  
 ---
+1. Visual object tracking using adaptive orrelation filters. In CVPR, 2010. 
+1. Exploiting the circulant structure of tracking-by-detection with kernels. In ECCV, 2012.
+1. Accurate scale estimation for robust visual tracking. In BMVC,2014.
+1. Fast visual tracking via dense spatio-temporal context learning. In ECCV, 2014.
+1. Adaptive color attributes for real-time visual tracking. In CVPR, 2014.
+1. High speed tracking with kernelized correlation filters. PAMI, 2015. 
+1. Multi-store tracker (muster): A cognitive psychology inspired approach to object tracking. In CVPR,  2015.
+1. Reliable patch trackers: Robust visual tracking by exploiting reliable patches. In CVPR,  2015. 
+1. Real-time part-based visual tracking via adaptive correlation filters. In CVPR, 2015.
+1. Long-term correlation tracking. In CVPR, 2015. 
+1. Multi-Kernel Correlation Filter for Visual Tracking. In ICCV2015
+1. Learning Spatially Regularized Correlation Filters for Visual Tracking. In ICCV2015    
+1. Scalable Kernel Correlation Filter with Sparse Feature Integration. In ICCV2015 workshop
+1. Joint Scale-Spatial Correlation Tracking with Adaptive Rotation Estimation.  In ICCV2015 workshop
+1. Multi-Template Scale-Adaptive Kernelized Correlation Filters. In ICCV2015 workshop 
+1. Convolutional Features for Correlation Filter Based Visual Tracking. In ICCV2015 workshop
+1. Structural Correlation Filter for Robust Visual Tracking. In CVPR2016
+1. Staple: Complementary Learners for Real-Time Tracking. In CVPR2016
+1. Real-Time Visual Tracking: Promoting the Robustness of Correlation Filter Learning.In ECCV 2016.
+1. Target Response Adaptation for Correlation Filter Tracking. ECCV2016
+1. Beyond Correlation Filters: Learning Continuous Convolution Operators for Visual Tracking. ECCV2016
+ 
+
  * [相关滤波器（Correlation Filters）](https://blog.csdn.net/sgfmby1994/article/details/68490903)
