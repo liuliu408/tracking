@@ -8,5 +8,5 @@
  ## 5. [Tracking Benchmark for Correlation Filters](https://github.com/HEscop/TBCF)
  
  #### . discriminative correlation filters (DCFs): ECO, C-COT and HCFT
- 
+  ![image]( https://github.com/liuliu408/tracking/blob/master/visual_tracking.png) 
  
