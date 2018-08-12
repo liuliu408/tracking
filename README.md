@@ -7,7 +7,8 @@
  ## 4. [foolwood/benchmark_results](https://github.com/foolwood/benchmark_results)
  ## 5. [Tracking Benchmark for Correlation Filters](https://github.com/HEscop/TBCF)
  
- * [相关滤波器（Correlation Filters）](https://blog.csdn.net/sgfmby1994/article/details/68490903)
- #### . discriminative correlation filters (DCFs): ECO, C-COT and HCFT
+ *  [CompressTrack代码](https://github.com/TJXUNwu/CompressTrack)
+
+#### . discriminative correlation filters (DCFs): ECO, C-COT and HCFT
   ![image](https://github.com/liuliu408/tracking/blob/master/tracking.png) 
  
