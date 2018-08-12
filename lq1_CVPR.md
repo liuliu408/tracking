@@ -1,4 +1,4 @@
-liuq（15928681548，liuliu408@163.com ，图像信息研究所614）  
+liuq（15928681548，58570305，liuliu408@163.com，图像信息研究所614）  
 
 ## 2018 CVPR(14篇 tracking)
 #### 1.  VITAL：VIsual Tracking via Adversarial Learning.   
