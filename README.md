@@ -8,6 +8,8 @@
  ## 5. [Tracking Benchmark for Correlation Filters](https://github.com/HEscop/TBCF)
  
  *  [CompressTrack代码](https://github.com/TJXUNwu/CompressTrack)
+ *  [Luca Bertinetto代码](https://github.com/bertinetto)
+
 
 #### . discriminative correlation filters (DCFs): ECO, C-COT and HCFT
   ![image](https://github.com/liuliu408/tracking/blob/master/tracking.png) 
