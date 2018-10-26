@@ -14,3 +14,6 @@
 #### . discriminative correlation filters (DCFs): ECO, C-COT and HCFT
   ![image](https://github.com/liuliu408/tracking/blob/master/tracking.png) 
  
+  ![image](https://github.com/liuliu408/tracking/blob/master/Correlation_Filtersxx.jpg) 
+
+      
