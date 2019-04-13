@@ -3,7 +3,7 @@
  ## [tracking图谱](https://coggle.it/)   
  ## 1. [目标跟踪算法2017](https://blog.csdn.net/huixingshao/article/details/78244838) 
  ## 2. [HEscop/benchmark_results](https://github.com/HEscop/benchmark_results)
- ## 3. [foolwood/benchmark_results](https://github.com/foolwood/benchmark_results)
+ ## 3. [中科院王强foolwood/benchmark_results](https://github.com/foolwood/benchmark_results)
  ## 4. [Tracking Benchmark for Correlation Filters](https://github.com/HEscop/TBCF)
  
  *  [CompressTrack代码](https://github.com/TJXUNwu/CompressTrack)
